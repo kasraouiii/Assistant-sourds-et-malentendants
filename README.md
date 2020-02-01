@@ -5,15 +5,15 @@ En ayant recours à diverses techniques de traitement de la parole telles que la
 
 Cette application permet de : 
 
-	Visualiser la conversation entre une personne malentendante et son interlocuteur sous forme de chat.
+Visualiser la conversation entre une personne malentendante et son interlocuteur sous forme de chat.
 
-	Enregistrer un interlocuteur.
+Enregistrer un interlocuteur.
 
-	Identifier un locuteur.
+Identifier un locuteur.
 
-	Traduire les dires de l’interlocuteur sous forme de texte.
+Traduire les dires de l’interlocuteur sous forme de texte.
 
-	Synthétiser la parole à partir du texte écrit par l’utilisateur.
+Synthétiser la parole à partir du texte écrit par l’utilisateur.
 
 
 
