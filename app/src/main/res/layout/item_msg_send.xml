@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/mon_image"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/icon"
+        android:layout_alignParentRight="true"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:id="@+id/moi"
+        android:layout_width="78dp"
+        android:layout_height="17dp"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/mon_image"
+        android:labelFor="@id/mon_image"
+        android:text="Moi"
+        android:layout_marginRight="-35dp"
+        android:layout_alignParentRight="true" />
+
+
+    <com.github.library.bubbleview.BubbleTextView
+        android:id="@+id/text_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/mon_image"
+        android:padding="10dp"
+        android:textColor="#060606"
+        app:angle="8dp"
+        app:arrowCenter="true"
+        app:arrowHeight="10dp"
+        app:arrowLocation="right"
+        app:arrowPosition="14dp"
+        app:arrowWidth="8dp"
+        app:bubbleColor="#74f4bf"
+        android:layout_toLeftOf="@+id/mon_image" />
+
+
+</RelativeLayout>

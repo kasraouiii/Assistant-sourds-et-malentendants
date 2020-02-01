@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bacwats3"
+    tools:context="com.example.first.myfirstapplication.MainActivity">
+
+
+    <Button
+        android:id="@+id/lang_FR"
+        android:layout_width="236dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="176dp"
+        android:background="@drawable/mybutton"
+        android:onClick="onButtonClick"
+        android:padding="10dp"
+        android:text="Français"
+        android:textColor="#ffffff" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="109dp"
+        android:layout_height="125dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="17dp"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="359dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="174dp"
+        android:text="Welcome to the Deaf/Dumb Application"
+        android:textAllCaps="false"
+        android:textColor="#c52929"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:typeface="normal"
+        app:fontFamily="@font/tienne"
+        tools:textColor="#ffffff" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Please, choose your  language !"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="24sp"
+        app:fontFamily="@font/tienne"
+        tools:textColor="#fafafa" />
+
+    <Button
+        android:id="@+id/lang_EN"
+        android:layout_width="236dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="105dp"
+        android:background="@drawable/mybutton"
+        android:onClick="onButtonClick"
+        android:padding="10dp"
+        android:text="English"
+        android:textColor="#ffffff" />
+
+
+</RelativeLayout>
