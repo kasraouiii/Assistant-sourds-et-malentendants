@@ -13,6 +13,16 @@ Cette application permet de :
 L'application utilise les technologies vocales de Google TTS pour la reconnaissance et la synthèse de la parole. L'application comprend également un ensemble de phrases prêtes à l'emploi, un historique des conversations et une grande fonction de police.
 
 # Les fonctionnalités intégrés : 
-Backend utilisant Firebase and SQLite.                                                                                                      Intégration de la caméra et la galerie de téléphone.                                                                                Intégration de la géolocalisation en utilisant l'API de Google Maps.                                                                Intégration du micro et les messages vocales.                                                                                       Exploitation de l'intélligence artificielle à l'aide des APIS de Google tels que TTS(Text To Speech) , Synthése vocale.           Exploitation de l'intélligence artificielle à l'aide de l'API MARF qui permet d'identifier les locuteurs à travers leurs voix.
+Backend utilisant Firebase and SQLite.
+
+Intégration de la caméra et la galerie de téléphone.                                                                                
+
+Intégration de la géolocalisation en utilisant l'API de Google Maps.                                                                
+
+Intégration du micro et les messages vocales.                                                                                       
+
+Exploitation de l'intélligence artificielle à l'aide des APIS de Google tels que TTS(Text To Speech) , Synthése vocale.           
+
+Exploitation de l'intélligence artificielle à l'aide de l'API MARF qui permet d'identifier les locuteurs à travers leurs voix.
 
 
