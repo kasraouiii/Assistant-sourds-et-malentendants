@@ -34,3 +34,27 @@ Exploitation de l'intélligence artificielle à l'aide des APIS de Google tels q
 Exploitation de l'intélligence artificielle à l'aide de l'API MARF qui permet d'identifier les locuteurs à travers leurs voix.
 
 
+
+
+# Références
+
+Quelques chaines youtube qu'on a utilisé comme référence.
+
+EDMT Dev :  https://www.youtube.com/user/eddydn71
+
+ProgrammingKnowledge :  https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA
+
+Free Code Camp :  https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ
+
+
+Documentation : 
+
+Camera : https://developer.android.com/guide/topics/media/camera
+
+Micro : https://developer.android.com/guide/topics/media/mediarecorder
+
+TTS : https://developer.android.com/reference/android/speech/tts/TextToSpeech
+
+Audio Recognition MARF Framework : https://github.com/activityworkshop/MARF
+
+Speech to Text Stackoverflow :  https://stackoverflow.com/questions/5913773/speech-to-text-on-android
