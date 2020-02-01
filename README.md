@@ -1,12 +1,20 @@
 # A propos de ce projet
 Le but de ce projet et de développer une application qui aide les personnes sourdes et malentendantes à entretenir des conversations avec des interlocuteurs non malentendants et n’ayant aucune connaissance du langage des signes.
+
 En ayant recours à diverses techniques de traitement de la parole telles que la reconnaissance vocale, l’application pourrait ainsi permettre de briser les barrières de communication entre la communauté sourde et malentendante et le reste du monde.
+
 Cette application permet de : 
+
 	Visualiser la conversation entre une personne malentendante et son interlocuteur sous forme de chat.
+
 	Enregistrer un interlocuteur.
+
 	Identifier un locuteur.
+
 	Traduire les dires de l’interlocuteur sous forme de texte.
+
 	Synthétiser la parole à partir du texte écrit par l’utilisateur.
+
 
 
 
