@@ -1,13 +1,23 @@
-# About this project
-Our goal is to make it easier for individuals who are deaf or have hearing loss to communicate with the people around them: relatives, friends, acquaintances, and strangers.
+# A propos de ce projet
+Le but de ce projet et de développer une application qui aide les personnes sourdes et malentendantes à entretenir des conversations avec des interlocuteurs non malentendants et n’ayant aucune connaissance du langage des signes.
+En ayant recours à diverses techniques de traitement de la parole telles que la reconnaissance vocale, l’application pourrait ainsi permettre de briser les barrières de communication entre la communauté sourde et malentendante et le reste du monde.
+Cette application permet de : 
+	Visualiser la conversation entre une personne malentendante et son interlocuteur sous forme de chat.
+	Enregistrer un interlocuteur.
+	Identifier un locuteur.
+	Traduire les dires de l’interlocuteur sous forme de texte.
+	Synthétiser la parole à partir du texte écrit par l’utilisateur.
 
-The Talk mobile app converts speech to text and can also produce spoken audio of written text. It uses Google TTS speech technologies for speech recognition and synthesis. The app also includes a set of ready-to-use phrases, a history of conversations, and a large font feature.
 
-This repository contains the Android Studio project.
-# What you need
-Android Studio version 1.2 and later
-Android SDK, API level 16—23
-Android Support Repository version 24
-Android Support Library version 23.1
-Build Tools version 21.1.2
+
+L'application utilise les technologies vocales de Google TTS pour la reconnaissance et la synthèse de la parole. L'application comprend également un ensemble de phrases prêtes à l'emploi, un historique des conversations et une grande fonction de police.
+
+# Les fonctionnalités intégrés : 
+-Backend utilisant Firebase and SQLite.
+-Intégration de la caméra et la galerie de téléphone.
+-Intégration de la géolocalisation en utilisant l'API de Google Maps.
+-Intégration du micro et les messages vocales.
+-Exploitation de l'intélligence artificielle à l'aide des APIS de Google tels que TTS(Text To Speech) , Synthése vocale.
+-Exploitation de l'intélligence artificielle à l'aide de l'API MARF qui permet d'identifier les locuteurs à travers leurs voix.
+
 
