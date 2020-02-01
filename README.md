@@ -27,7 +27,7 @@ Intégration de la caméra et la galerie de téléphone.
 
 Intégration de la géolocalisation en utilisant l'API de Google Maps.                                                                
 
-Intégration du micro et les messages vocales.                                                                                       
+Intégration du micro.                                                                                     
 
 Exploitation de l'intélligence artificielle à l'aide des APIS de Google tels que TTS(Text To Speech) , Synthése vocale.           
 
