@@ -65,6 +65,7 @@ Speech to Text Stackoverflow :  https://stackoverflow.com/questions/5913773/spee
 
 Voici une vidéo démonstrative de l'application : 
 
+Cliquez sur l'image pour voir la vidéo sur youtube.
 
 [![](http://img.youtube.com/vi/Fn3VDOH8HSU/0.jpg)](http://www.youtube.com/watch?v=Fn3VDOH8HSU "")
 
