@@ -64,4 +64,7 @@ Speech to Text Stackoverflow :  https://stackoverflow.com/questions/5913773/spee
 # Demo
 
 Voici une vidéo démonstrative de l'application : 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fn3VDOH8HSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[![](http://img.youtube.com/vi/Fn3VDOH8HSU/0.jpg)](http://www.youtube.com/watch?v=Fn3VDOH8HSU "")
+
