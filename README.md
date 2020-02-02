@@ -58,3 +58,10 @@ TTS : https://developer.android.com/reference/android/speech/tts/TextToSpeech
 Audio Recognition MARF Framework : https://github.com/activityworkshop/MARF
 
 Speech to Text Stackoverflow :  https://stackoverflow.com/questions/5913773/speech-to-text-on-android
+
+
+
+# Demo
+
+Voici une vidéo démonstrative de l'application : 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fn3VDOH8HSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
